@@ -1,0 +1,1 @@
+export const SET_CATE_DATA = 'set_cate_data';
